@@ -75,7 +75,7 @@ Les données consistent en des chaînes de composition d’alliages métalliques
 ```
 
 ## 👤 Les Auteurs
+- Samir Akram OUNIS
+- Chawki BELHADDAD
 
-* Samir Akram OUNIS
-* Chawki BELHADDAD
-* Les Étudiants en Ingénierie des Systèmes Informatiques Intelligents – Université d’Alger 1
+Les Étudiants en Ingénierie des Systèmes Informatiques Intelligents – Université d’Alger 1
